@@ -23,7 +23,7 @@ Sebagai Project Manager, bertanggung jawab untuk:
 |---|---|
 | Wawan | Project Manager |
 | Guntur | Front-End Developer |
-| Rahmat Satriawan | Back-End Developer |
+| Rakhmat | Back-End Developer |
 
 ## Git Workflow
 
